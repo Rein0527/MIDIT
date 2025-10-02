@@ -1,0 +1,19 @@
+{
+  "ts": 1759403593.9000738,
+  "bpm": 120.0,
+  "ppq": 960,
+  "transport": {
+    "pos": 0,
+    "loop_on": false,
+    "loop_a": 0,
+    "loop_b": 15360,
+    "speed": 1.0
+  },
+  "ui": {
+    "active_track": 0,
+    "visible_tracks": [],
+    "snap": 240,
+    "px_per_tick": 0.08,
+    "px_per_note": 12.0
+  }
+}

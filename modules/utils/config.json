@@ -1,0 +1,36 @@
+{
+  "theme": "dark",
+  "theme_custom": {
+    "accent": "#5aa0ff",
+    "window": "#2b2d30",
+    "window_text": "#ebebee",
+    "base": "#212427",
+    "alt_base": "#303236",
+    "text": "#ebebee",
+    "button": "#3a3d42",
+    "button_text": "#f0f0f4",
+    "bright_text": "#ff5f5f",
+    "highlight": "#5aa0ff",
+    "highlight_text": "#101114",
+    "tooltip_base": "#303236",
+    "tooltip_text": "#f0f0f4"
+  },
+  "default_bpm": 120.0,
+  "default_tracks": 1,
+  "output_device": "system",
+  "preferred_midi_output": "Microsoft GS Wavetable Synth 0",
+  "soundfont_path": "C:/Users/U10139011/OneDrive - BASF/Desktop/py/MIDI_edit/source/FluidR3_GM.sf2",
+  "auto_backup": true,
+  "auto_restore": false,
+  "latency_profile": "high",
+  "shortcuts": {},
+  "view": {
+    "auto_scroll": true,
+    "show_note_labels": false,
+    "snap": "1/4"
+  },
+  "developer": {
+    "debug_log": true,
+    "log_to_file": true
+  }
+}
